@@ -15,6 +15,7 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 ### Funcionalidades Incríveis
 
 - **Sistema de Pontuação**: Acompanhe sua pontuação à medida que progride no jogo e desafie seus amigos a superá-la, clique no quadrado que o Ralph se encontre
+- **Sistema de Vidas**: Acompanhe sua vida à medida que progride no jogo para maximizar seus possíveis pontos 
 
 ### Como Jogar
 
@@ -30,6 +31,12 @@ Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar n
 ### Créditos
 
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
+
+### Modificações
+
+1. O jogador terá 3 vidas.
+2. A vida diminuirá toda vez que o temporizador chegar ao 0, até o game over.
+3. Inserção de um som no game over.
 
 ---
 
